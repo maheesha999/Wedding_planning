@@ -1,1 +1,1 @@
-# IWT-Project-Wedding-planning-system-website
+The Wedding Event Planning App is an all-in-one platform designed to help couples seamlessly plan their wedding events. It offers a range of features to manage guest lists, venue bookings, budget tracking, and much more, making wedding planning stress-free and organized.
