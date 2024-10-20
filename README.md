@@ -1,4 +1,4 @@
-Love in Bloom is a trusted and comprehensive wedding planning website that helps couples make informed decisions and manage all aspects of their wedding under fair packages. The platform allows users to book services such as venues, dresses, catering, photography, decorations, and more.
+Love in Bloom is a trusted and comprehensive wedding planning website that helps couples make informed decisions stress-freely and manage all aspects of their wedding under fair packages. The platform allows users to book services such as venues, dresses, catering, photography, decorations, and more.
 
 Key Features:
 <li>Service Booking: Couples can browse and book various wedding services, including fashion, beauty, catering, and more.</li>
@@ -11,4 +11,3 @@ Key Features:
 <li>About Us: Includes information about the website’s vision, mission, and goals.</li>
 <li>Love in Bloom ensures an easy, stress-free wedding planning experience, helping couples make their special day perfect.</li>
 
-Love in Bloom ensures an easy, stress-free wedding planning experience, helping couples make their special day perfect.
